@@ -28,7 +28,7 @@ public class BookSpinnerApp {
                 responseLabel.setText("Ответ: Вы берете " + numberOfBooks + " книг(и) с собой в лагерь.");
             }
         });
-        
+
         frame.setVisible(true);
     }
 }
