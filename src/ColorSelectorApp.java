@@ -42,7 +42,7 @@ public class ColorSelectorApp {
         customColorField = new JTextField(15);
         customColorField.setEnabled(false); // Изначально отключен
         frame.add(customColorField);
-        
+
         frame.setVisible(true);
     }
 
