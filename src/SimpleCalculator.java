@@ -27,7 +27,7 @@ public class SimpleCalculator extends JFrame implements ActionListener {
 
         JPanel buttonPanel = new JPanel();
         buttonPanel.setLayout(new GridLayout(4, 4));
-        
+
         String[] buttons = {
                 "7", "8", "9", "/",
                 "4", "5", "6", "*",
